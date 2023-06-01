@@ -1,0 +1,21 @@
+.hello:link{
+    color: #e1f108;
+}
+.hello:hover{
+    font-size: 100px;
+}
+.hello:active{
+    font-style: italic;
+}
+.hello:visited{
+  color: #0cd71d;
+}
+li:nth-child(2n) a{
+    color: #e3168e;
+}
+.ex li:nth-child(even) a{
+    color: #d6e815;
+}
+p:first-of-type{
+    color: #dd1c1c;
+}

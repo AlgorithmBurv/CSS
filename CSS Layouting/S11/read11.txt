@@ -1,0 +1,9 @@
+https://www.slideshare.net/sandhikagalih/css-layouting-5-position
+
+http://tinkercad.com/
+
+ada 4 value dari property position :
+1. static
+2. relative
+3. absolute
+4. fixed

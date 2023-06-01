@@ -1,0 +1,3 @@
+https://www.slideshare.net/sandhikagalih/css-layouting-3-box-model
+
+padding tidak ada negatif dan auto

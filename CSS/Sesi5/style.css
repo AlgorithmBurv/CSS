@@ -1,0 +1,18 @@
+h1, h2{
+    color: #920a0a;
+}
+ul li a {
+    color: #1cd491;
+}
+.p1{
+    color: #510abc;
+}
+.cetak-tebal{
+    font-weight: bold;
+}
+p.cetak-tebal{
+    font-size: larger;
+}
+#p2{
+    color: #0dcc37;
+}

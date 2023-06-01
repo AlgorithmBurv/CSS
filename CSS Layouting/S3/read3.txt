@@ -1,0 +1,8 @@
+https://www.slideshare.net/sandhikagalih/css-layouting-3-box-model
+
+
+ada 4 komponen dalam box model :
+1. margin
+2. padding
+3. border
+4. konten

@@ -1,0 +1,13 @@
+h1{
+    font-size: 100px;
+    color: rgb(217, 18, 35);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+}
+p{
+  
+    text-indent: 30px;
+    text-decoration: line-through;
+    word-spacing: 10px;
+}
